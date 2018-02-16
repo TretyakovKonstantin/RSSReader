@@ -1,0 +1,12 @@
+/Users/studiomobile/Projects/Test222222/Test222222/bin/iPhoneSimulator/Debug/Test222222.exe
+/Users/studiomobile/Projects/Test222222/Test222222/bin/iPhoneSimulator/Debug/Test222222.pdb
+/Users/studiomobile/Projects/Test222222/Test222222/bin/iPhoneSimulator/Debug/NativeButtonBinding.dll
+/Users/studiomobile/Projects/Test222222/Test222222/bin/iPhoneSimulator/Debug/NativeButtonBinding.pdb
+/Users/studiomobile/Projects/Test222222/Test222222/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/studiomobile/Projects/Test222222/Test222222/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/studiomobile/Projects/Test222222/Test222222/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/studiomobile/Projects/Test222222/Test222222/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/studiomobile/Projects/Test222222/Test222222/obj/iPhoneSimulator/Debug/Test222222.csprojResolveAssemblyReference.cache
+/Users/studiomobile/Projects/Test222222/Test222222/obj/iPhoneSimulator/Debug/Test222222.csproj.CoreCompileInputs.cache
+/Users/studiomobile/Projects/Test222222/Test222222/obj/iPhoneSimulator/Debug/Test222222.exe
+/Users/studiomobile/Projects/Test222222/Test222222/obj/iPhoneSimulator/Debug/Test222222.pdb

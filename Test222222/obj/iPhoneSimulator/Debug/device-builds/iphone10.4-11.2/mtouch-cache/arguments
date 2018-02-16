@@ -1,0 +1,39 @@
+# Version: 11.6.1.4 (xcode9.2: db807ec9)
+# [first argument, ignore] # --cache
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.4/lib/mtouch/mtouch.exe \
+	/Users/studiomobile/Projects/Test222222/Test222222/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache \
+	--sim \
+	/Users/studiomobile/Projects/Test222222/Test222222/bin/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/Test222222.app \
+	--executable \
+	Test222222 \
+	--debug \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	11.2 \
+	--targetver \
+	10.0 \
+	--aot-options=-O=-float32 \
+	--http-message-handler=HttpClientHandler \
+	--abi=x86_64 \
+	--symbollist \
+	/Users/studiomobile/Projects/Test222222/Test222222/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	/Users/studiomobile/Projects/NativeButtonBinding/NativeButtonBinding/bin/Debug/NativeButtonBinding.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Users/studiomobile/Projects/NativeButtonBinding/NativeButtonBinding/bin/Debug/NativeButtonBinding.dll \
+	--target-framework \
+	'Xamarin.iOS,v1.0' \
+	/Users/studiomobile/Projects/Test222222/Test222222/bin/iPhoneSimulator/Debug/Test222222.exe \

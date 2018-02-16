@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{048B004E-B72A-4CD7-8EF6-844D6ABEC446}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App.Shared/src/RssFeedViewModel.cs">
+    <Files>
+      <File FileName="Test222222/ViewController.cs" Line="20" Column="58" />
+      <File FileName="../NativeButtonBinding/NativeButtonBinding/ApiDefinition.cs" Line="33" Column="6" />
+      <File FileName="../NativeButtonBinding/NativeButtonBinding/libNativeButton.linkwith.cs" Line="10" Column="79" />
+      <File FileName="App.Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="App.Model/Class1.cs" Line="1" Column="1" />
+      <File FileName="App.Shared/MyClass.cs" Line="9" Column="6" />
+      <File FileName="App.Shared/src/RssFeedViewModel.cs" Line="50" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test222222" expanded="True">
+            <Node name="App.Model" expanded="True">
+              <Node name="src" expanded="True" />
+            </Node>
+            <Node name="App.Shared" expanded="True">
+              <Node name="src" expanded="True">
+                <Node name="RssFeedViewModel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.App.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7108D467-ECF4-43CD-B1F8-D87789AD658C">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.App.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
